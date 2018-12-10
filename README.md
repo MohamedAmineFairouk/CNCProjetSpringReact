@@ -1,4 +1,4 @@
-# It's CNC Affectation Projet , for Moroccan Students
+# CNC Affectation Project , for Moroccan Students
 
 ## Prerequisites
 - JDK 1.7 or later
